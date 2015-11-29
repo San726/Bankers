@@ -1,10 +1,10 @@
 <?php
-    session_start();
+    /*session_start();
     if(isset(TRUE){
         echo $_SESSION["first_name"];
     }else{
         echo "tada";
-    }
+    }*/ 
 ?>          
     <div class="col-md-4">
                 <div id="wrapper">
