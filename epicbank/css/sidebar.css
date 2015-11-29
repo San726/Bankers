@@ -1,0 +1,49 @@
+ul li {
+    list-style-type: none;
+}
+#logo{
+	
+    font-family: 'Cuprum', sans-serif;
+    font-size: 40px;
+    margin-top: 5%;
+}
+a:hover{
+	text-decoration: none;
+}
+
+#sbar{
+	font-family: 'Cuprum', sans-serif;
+	margin-top: 5%;
+	background-color: #2ecc71;
+}
+
+#sbar li {
+	padding: 8px;
+	font-size: 17px;
+}
+
+#sbar li:hover {
+	background-color: #019875;
+}
+
+body{
+	background-color: #ecf0f1;
+}
+
+.jumbotron {
+	margin-top: 3.5%;
+	padding-bottom: 23%;
+	background-color: #F9690E;
+}
+
+.nc {
+	background-color: #2c3e50;
+	color: #2ecc71;
+	font-size:15px; 
+	font-family: 'Coda', cursive;
+	
+}
+.logout{
+    float: right;
+    margin-top: 3%;
+}
