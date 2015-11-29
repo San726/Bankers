@@ -12,7 +12,7 @@ if ($conn->connect_error) {
 } 
 //echo "Connected successfully";
 
-if(isset($_SESSION["first_name"])){
+if(!isset($_SESSION["first_name"]) && $_SERVER['PHP_SELF'] != "/index.php"){ 
     header("Location: /");
 }
 ?>
