@@ -17,4 +17,10 @@
 
         <link type="text/css" href="/epicbank/css/sidebar.css" rel="stylesheet"/>
 
+        <script>
+            function redirect() {
+                window.location = "/";
+            }
+        </script>
+
     </head>

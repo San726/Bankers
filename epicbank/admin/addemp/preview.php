@@ -133,7 +133,7 @@ $conn->query($sql);
                     <span class="label label-info" style="font-size: 15px; padding: 8px; margin-top: 1%; font-family: 'Cuprum', sans-serif;"><?php echo $_SESSION["first_name"] . "&nbsp;" . $_SESSION["last_name"] ;?></span>
                     &nbsp;
                     &nbsp;
-                    <button type="button" class="btn btn-danger">logout</button>
+                    <button type="button" class="btn btn-danger" onclick="redirect();">logout</button>
                 </div>
                 <!--<h1 style="font-family: 'Cuprum', sans-serif;">New Account</h1>               
                 -->

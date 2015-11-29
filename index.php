@@ -1,6 +1,10 @@
 <?php
 include 'conn.php';
 session_start();
+$_SESSION["first_name"] = "";
+$_SESSION["last_name"] = "";
+session_unset();
+session_destroy();
 ?>
 <!DOCTYPE html>
 
