@@ -44,7 +44,7 @@
                 </div>
 
                 <div class="jumbotron">
-                    <p style="font-family: 'Cuprum', sans-serif;"># &nbsp; I will find and i will kill you.
+                    <p style="font-family: 'Cuprum', sans-serif;"># &nbsp; I will find you and i will kill you.
                     </p>
                     <button type="button" class="btn btn-danger">Close</button>
                 </div>
